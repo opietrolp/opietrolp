@@ -159,9 +159,8 @@ A aplicação utiliza APIs para conectar o bot aos serviços necessários, permi
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/opietrolp?style=for-the-badge&color=a855f7&label=Seguidores)
-![GitHub User's stars](https://img.shields.io/github/stars/opietrolp?style=for-the-badge&color=a855f7&label=Estrelas%20totais)
 ![GitHub repo count](https://img.shields.io/github/repositories/opietrolp?style=for-the-badge&color=a855f7&label=Reposit%C3%B3rios)
+![GitHub last commit](https://img.shields.io/github/last-commit/opietrolp/opietrolp?style=for-the-badge&color=a855f7&label=%C3%9Altimo%20commit)
 
 </div>
 
@@ -193,8 +192,7 @@ A aplicação utiliza APIs para conectar o bot aos serviços necessários, permi
 <div align="center">
 
 ![GitHub followers](https://img.shields.io/github/followers/opietrolp?style=for-the-badge&color=a855f7&label=Seguidores)
-![GitHub stars](https://img.shields.io/github/stars/opietrolp?style=for-the-badge&color=a855f7&label=Estrelas%20totais)
-![GitHub forks](https://img.shields.io/github/forks/opietrolp?style=for-the-badge&color=a855f7&label=Forks%20totais)
+![GitHub User's stars](https://img.shields.io/github/stars/opietrolp?style=for-the-badge&color=a855f7&label=Estrelas%20totais)
 
 </div>
 
